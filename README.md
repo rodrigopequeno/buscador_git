@@ -1,6 +1,6 @@
-# buscador_gifs
+# Buscador de Gifs em Flutter
 
-A new Flutter application.
+Aplicativo desenvolvido para aperfeiçoar-me na linguagem Dart e no framework Flutter consumindo API externa (https://developers.giphy.com/). Não foi ultilizado nenhum gerenciamento de estados.(pt-br)
 
 ## Getting Started
 
